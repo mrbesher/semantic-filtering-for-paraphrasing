@@ -14,3 +14,12 @@ The raw (non-filtered versions) can be acessed from the links below:
 
 - [OpenSubtitles2018 Raw](https://huggingface.co/datasets/mrbesher/tr-paraphrase-opensubtitles2018) (OST-RAW)
 - [Tatoeba Raw](https://huggingface.co/datasets/mrbesher/tr-paraphrase-tatoeba-raw) (TAT-RAW)
+
+## Model Checkpoints
+You can access the finetuned model checkpoints from the links below:
+
+- [mT5-base (OST)](https://huggingface.co/hyunussarioglu/paraphrase-mt5-base-ost): [mT5-base](https://huggingface.co/google/mt5-base) finetuned on the filtered OpenSubtitles2018 dataset.
+- [mT5-base (TAT)](https://huggingface.co/hyunussarioglu/paraphrase-mt5-base-tat): [mT5-base](https://huggingface.co/google/mt5-base) finetuned on the filtered Tatoeba dataset.
+
+## Codes
+__Will be added later.__
