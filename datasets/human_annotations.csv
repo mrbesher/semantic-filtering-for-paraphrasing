@@ -1,0 +1,501 @@
+src,tgt,dataset,human,annotator_1,annotator_2
+"Biri onu, bu iş için tutmuş olmalı.",Birisi onu bunun için tutmuş olmalı.,ost,3,3,3
+Üç kez üst üste başarısız oldum.,Üst üste üçüncü kez başarısız oldum.,ost,3,3,3
+"Haydi köpekler, yapmanız gereken bir iş var.","Hadi, köpekler, yapmanız gereken bir iş var.",ost,3,3,3
+"Evet, peki, sana da iyi günler.","Evet, sana da iyi günler.",ost,3,3,3
+"Hayal et, hepsini bir şey için!","Yani, hayal et, tüm bunlar bir hiç için!",ost,0,0,1
+Acı çekmeye ve üzülmeye devam ediyoruz.,Hala acı ve keder hissediyoruz.,ost,2,2,2
+"Onların yüzünü görmek, her şeye değerdi.","Yüzlerini görmek, buna değerdi.",ost,2,2,2
+Hızlıca bir karar versek iyi olur.,Hızlı bir karar versek iyi olur.,ost,3,3,3
+"Çenen bizi buralara getirdi, değil mi?","Bizi buraya getiren senin gob'undu, değil mi?",ost,1,1,1
+Ama evlilik için hazır olmadığımı biliyordu.,Ama evliliğe hazır olmadığımı biliyordu.,ost,3,3,3
+Sadece yapacak en iyi şey var.,Sadece en iyisi var.,ost,1,1,2
+İstediği şeye adamın ihtiyacı olduğu çok belli.,Belli ki onun istediği şeye ihtiyacı var.,ost,3,3,3
+50'den fazla Wamapoke'lu katledilmişti.,Ve 50'den fazla Wamapoke katledildi.,ost,2,2,3
+"Makine kırıldı, bu yüzden kalmam lâzım.","Makine bozuldu, o yüzden kalmalıyım.",ost,2,3,2
+Bugünkü açık artırma sona ermiş oldu.,Bu da bugünkü müzayedeyi sona erdiriyor.,ost,2,2,3
+Babanla olan mesele neydi geçen gece?,Geçen sefer baban ne hakkında konuşuyordu?,ost,1,1,1
+Bu geçişte ona yardımcı oluyorum ben.,Bu geçişte ona yardım ediyorum.,ost,3,3,3
+En azından arabayı Atılgan'dan kiralasak?,En azından arabayı Atılgan'dan kiraladık mı?,ost,1,1,1
+Hey çene çalmak için zamanımız yok.,"Hey, çene çalacak zaman yok!",ost,3,3,3
+"Dogru, oyle çunku onları ben seçtim",Çünkü onları ben seçtim.,ost,2,2,2
+"Saat geç oldu, kapıyı kapatmak zorundayım.","Geç oldu, kapıyı kapatmalıyım.",ost,2,2,3
+Davadaki kadın kendine bir adam yaratmıştı.,Bu kadın adamı uydurmuş.,ost,1,1,2
+O balonu senin için anlamı neydi?,"Ama top, sana ne?",ost,0,0,0
+"Onu çok sevdim, çok güzel geçiniyoruz.","Onu seviyorum, çok eğleniyoruz.",ost,2,2,3
+Orada ya gures izlersin ya baliga gidersin.,Ya güreş izlerdim ya da balık tutardım.,ost,1,1,2
+"Bir doktora ihtiyacım olursa, seni arayacağım.",Doktora ihtiyacım olduğunda sesleneceğim.,ost,-1,1,3
+Yol için de bir kadeh içmen gerekir,Yol için bir tane lazım.,ost,1,1,1
+Sabahın bu kadar erken bir vaktinde mi geldi?,Sabahın bu saatinde mi geldi?,ost,2,3,2
+Bir kaç yıla kadar evin rahibesi olabilirdi.,Birkaç yıl ev rahibesi olmuş olabilir.,ost,0,1,0
+Bir gün eve geldim ve o gitmişti.,Eve geldiğimde gitmişti.,ost,2,2,2
+Kayo evde mi diye kontrol eder misin?,Kayo'yu evimde kontrol eder misin?,ost,2,2,2
+Bu konu hakkında çalışılan yerler var.,Onu inceleyen yerler var.,ost,3,3,3
+Nikita'nın o kutuyu alması gerek.,Nikita o kutuya ulaşmalı.,ost,2,2,3
+"Bu, sanırım, Lee'ye aynı şey oldu.",Sanırım Lee'ye olanlar buydu.,ost,2,2,3
+Abin Sur gizli göreve çıkmaya gönüllü oldu.,Abin Sur gizli göreve çıkmayı teklif etti.,ost,-1,3,1
+Belki bir üst düzey iblis için çalışıyordu.,Belki üst düzey bir iblis için çalışıyordu.,ost,3,3,3
+Belki bunu ona götürsen daha iyi olur.,Belki de onunla konuşmalısın.,ost,-1,0,2
+Şu işi kontrol altına alır mısınız?,Lütfen sessiz olur musunuz?,ost,0,0,0
+"Nat, ne anneme ne bana öyle bir şey söylemedi.",Daha önce hiç böyle bir şey duymamıştım.,ost,2,2,2
+O buraya geldiğinde yaşlanmış olmak istemem.,O buraya geldiğinde yaşlı olmak istemezdim.,ost,3,3,3
+Aynı zamanda kız arkadaşım için de yaptım.,Bunu kız arkadaşım için de yaptım.,ost,3,3,3
+"Ayrıca, eve gitmek için henüz çok erken.","Ayrıca, eve gitmek için daha çok erken.",ost,3,3,3
+Allah'in yardimi ile zamaninda yetisecek.,Tanrı'nın lütfuyla zamanında yapılacak.,ost,3,3,3
+Sen bu giysileri dün de mi giymiştin?,Dün bu kıyafetleri mi giyiyordun?,ost,3,3,3
+Bu üçümüz için de iyi olmaz.,Bu üçümüz için iyi olmayacak.,ost,3,3,3
+Sanırım şu anda bir yerlerde olmam gerekiyor.,Sanırım bir yerde olmam gerekiyor.,ost,2,2,2
+Bir erkek çocuğu dünyaya getirdi ve öldü.,Bir erkek doğurdu ve öldü.,ost,3,3,3
+"Şuncacık hayvan, ufacık canı var ya.",Küçük bir ruhu olan küçük bir şey.,ost,1,2,1
+Kendini bir şey sana yabancılardan iyidir.,Yabancılardan daha iyi ve büyük bir adam gibi.,ost,0,0,0
+"Kim oluyorsun da, bize iş buyuruyorsun?",Sen kimsin ki bize ne yapacağımızı söylüyorsun?,ost,2,3,2
+"Evet, bunu ben de pek sevmiyorum.","Evet, bu da hoşuma gitmiyor.",ost,-1,2,0
+Kay Coleman'ın yasak ilişkisine ait ipucu.,Kay Coleman'ın ilişkisinin kanıtı.,ost,2,2,2
+ya da onun kolanyasının kokusunu aldın mı,Yoksa onun parfümünü mü sürdün?,ost,1,1,1
+Taşınman için kutu falan ayarlayayım mı?,Sana hareket eden kutu getireyim mi?,ost,0,1,0
+Okul kitapların hala arka koltukta duruyor.,Metin kitapların hala arka koltukta.,ost,1,1,1
+"Ne bekliyorsun, Çin'de yeni yılı mı?","Ne bekliyorsun, Çin Yeni Yılı mı?",ost,2,3,2
+Anne o maymunlar çok şirin ama.,"Anne, bu maymunlar gerçekten çok tatlı.",ost,2,2,2
+"O, dans etmesi için Michelle'yi zorluyordu..",Michelle'i dans etmeye zorluyordu.,ost,3,3,3
+Heralde şu adam Bosa ile evleniyor.,Muhtemelen o adam Bosa ile evleniyordur.,ost,3,3,3
+Şimdi biraz gerçek polis işi seyret.,Şimdi biraz gerçek polis izle.,ost,3,3,3
+Sinyor Ripley'yi en son ne zaman gördünüz?,Sinyor Ripley'i en son ne zaman gördünüz?,ost,3,3,3
+The Barenaked Ladies çalacak burada yarın.,Çıplak Kadınlar yarın burada çalacak.,ost,2,2,3
+Benim eskiden kaldığım tarzda bir daire.,Burası eskiden kaldığım bir süit.,ost,0,0,1
+Dünya bir gecede yok olmayacak ya.,Dünyanın sonu bir gecede gelmeyecek.,ost,3,3,3
+Bu hafta endişe etmen gereken tek hayvan benim.,Bu civardaki tek hayvan benim.,ost,1,1,1
+"Madam, bu arzu edeceğim son şeydir.","Madam, bu isteyeceğim son şey.",ost,3,3,3
+"Eğer işe yararsa, ülke çapında yayılabilir.","Eğer bu şey çalışıyorsa, Ulusal olabilir.",ost,2,2,3
+Onu sadece orada tutmalarını söylemedin mi?,Sadece onu tutmalarını istemedin mi?,ost,3,3,3
+İyi yanı falan yok Papaz Flanagan.,İyi tarafı yok Peder Flanagan.,ost,3,3,3
+"Oraya gitmek, işin en kolay kısmı, Bay Paris.","Oraya varmak en kolay kısmı, Bay Paris.",ost,2,2,3
+Binbaşı kütle spektrometresi yine iş başında.,Binbaşı Kütle Spektrometresi oyuna geri döndü.,ost,2,2,3
+"Belki daha fazla, uzaklığa göre değişir.","Belki daha fazla, mesafeye göre değişir.",ost,3,3,3
+Şimdilik hiçbir şey olmamış gibi davranmalıyız.,İnkâr şu anda dostumuz olmalı.,ost,-1,2,0
+Şu an gerçekten canım köri istiyor.,Canım köri çekti.,ost,3,3,3
+"Baksana, sevgilim, jartiyerin ne kadar sıkı.","Bak sevgilim, jartiyerin ne kadar sıkı.",ost,3,3,3
+Sadece bir saniye burayı dinleyin lütfen.,"Dikkatinizi bana verir misiniz, lütfen?",ost,1,1,2
+Bu yüzden bu işi yapmaya başladım.,Bu yüzden bunu yapmaya başladım.,ost,3,3,3
+SG1'e geçici bir üye vereceğim.,SG1'in yerine geçici bir yedek koyacağım.,ost,1,2,1
+Yürürken beni bile zar zor tanıyorlar.,Geçerken beni tanımıyorlar bile.,ost,2,2,2
+Yaklaşık bir saat sonra ateşi karıştırdım.,Yaklaşık bir saat sonra yangını ateşledim.,ost,1,2,1
+Bankadan gelen bir mektup arazin hakkında.,Bankadan arazinle ilgili bir mektup.,ost,3,3,3
+Benim babam ne yapmış ki onlara?,Babam onlara ne yaptı?,ost,3,3,3
+Ama kendimi çok kötü hissetmemi sağladın!,Ama kendimi kötü hissetmemi sağladın!,ost,3,3,3
+Görünen o ki boşanma bir seçenek.,Görünüşe göre bu da bir seçenek.,ost,0,1,0
+Gerçek şu ki ve bu gerçek,"Gerçek şu ki, gerçek bu.",ost,2,2,3
+Benim inanmamla ilgisi yok bu mevzunun.,Bu benim kesinliğimle ilgili değil.,ost,0,0,1
+Hepsi de o geniş gönlünden kopup geliyor.,Hepsi kalbinin büyüklüğünden dolayı.,ost,2,2,2
+Fakat bu öyle uzun bir yol ki.,Ama bu çok uzun bir yol.,ost,2,2,3
+Kaç para bu oda biliyor musun?,Bu odanın bana ne kadara mal olduğunu biliyor musun?,ost,2,2,2
+"Eğer yardım edersem, eve gidebilir miyim?","Sana yardım edersem, eve gidebilir miyim?",ost,3,3,3
+Sadece bir tanesi tasir onu ise giderken.,Sadece biri onları işe götürür.,ost,2,3,2
+Çin'i kurtarmak isteyen bir kahraman,Kudretli Japonya'yla savaşmış gibi görünüyor!,ost,0,0,0
+Biraz ittireceksin ve son yolculuk başlayacak.,Sadece küçük bir ıkınma ve son bir tur.,ost,2,2,2
+ya bir şeyler yanlış giderse diye?,Ya bir şeyler ters giderse?,ost,3,3,3
+Belki sen göbeğimi kaşımama izin verirsin.,Belki karnımı kaşımana izin veririm.,ost,1,1,1
+Bana şimdi bir resim çizer misin?,Şimdi resmimi çizebilir misin?,ost,1,1,1
+Benimle aynı evde yaşamak ister misin?,Yanıma taşınmak ister misin?,ost,3,3,3
+Ben senin Omega'nı almam Baba.,Senin Omega'nı alamam baba.,ost,2,2,3
+Beni hemen Maria ve Maria'nın yanına götürün.,Beni Maria ve Maria'ya yönlendirebilirsin.,ost,2,2,2
+"Başka şeyler de var, öyle değil mi?","Daha fazlası var, değil mi?",ost,3,3,3
+Korsak ile davayı biz alalım mı?,Korsak'la benim almamızı ister misin?,ost,-1,1,3
+Ayrıca bunu artık yapmak zorunda değilsin.,Ve artık bunu yapmak zorunda değilsin.,ost,3,3,3
+Zaten nasıl bir planım olabilir ki?,"Yani, hadi ama, nasıl bir planım olabilir ki?",ost,2,2,3
+"Üzüntü verici, ama bu komutayı bana bırakacak.",Pişmanım ama komutayı bana bırakacaktır.,ost,1,1,1
+Ben de neyi isterdim biliyor musun?,Ne güzel olurdu biliyor musun?,ost,-1,1,3
+Beni temize çikarman için tuttum seni.,Seni bu işten kurtulman için tuttum.,ost,1,1,1
+Nasıl oldu da bırakmadı sultan seni?,Sultan neden gitmene izin vermedi?,ost,2,2,3
+Beyin ölümünü onaylamak için EEG yaptınız mı?,Beyin ölümünü doğrulamak için EEG yaptınız mı?,ost,3,3,3
+Bunun benimle ve Nate'le ilgisi yok.,Nate'le benim aramda bir şey yok.,ost,1,1,1
+Japon halkına tanıtmıştım ve buna bayıldılar.,Japonlara ve çok sevdiler.,ost,0,0,0
+Ne zamandan beri iki işi aynı anda yapamıyorum?,Ne zamandan beri aynı anda iki şey yapamıyorum?,ost,3,3,3
+Yine de pek çoğu güvenlerini yitirdi.,Yine de çoğu rüzgara kapıldı.,ost,-1,2,0
+"Baya büyük bir şov olacak, merak etmeyesin.","Hayır, büyük bir gösteri olacak, merak etme.",ost,1,2,1
+Bu da demektir ki Jackson tamamen delirmemiş.,Bu da Jackson'ın tamamen deli olmadığı anlamına geliyor.,ost,3,3,3
+Bunlar artık Mulligan'ın topları değil.,Onlar artık Mulligars havan topları değil.,ost,2,2,2
+Ş  imdi de izin mi almam gerekiyor?,Şimdi izin mi almam gerekiyor?,ost,3,3,3
+Blaster'ın bana ilgi duymasını istiyorum.,Benimle ilgilenmesini istiyorum.,ost,-1,1,3
+Seni yetiştirmek için çok emek ve zaman harcadım,Sana çok zaman ve çaba harcadım.,ost,2,2,2
+"Evet, ama Bart'da paçayı zor yırttım.","Evet, ama Bart kıl payı kurtuldu.",ost,-1,3,1
+Tek sebebin bu olduğuna emin değilim.,Tek sebebin bu olduğundan emin değilim.,ost,3,3,3
+Paris'in yarısını kat etmemiz gerekir.,Paris'in yarısını yürümek zorunda kalırız.,ost,-1,1,3
+Benim de gizli bir yanım var.,Benim de gizli bir benliğim var.,ost,2,2,2
+Ve ben günü yaşıyorum sevdiğim şeyi yapıyorum.,"Ve bugün için yaşıyorum, ve yaptığım işten zevk alıyorum.",ost,3,3,3
+"Tamam, kimse hiç bir şeye işemiyor.","Tamam, kimse bir şeye işemiyor.",ost,3,3,3
+O halde ben de yeterince iyiyim.,O zaman ben de iyiyim.,ost,3,3,3
+Bu karı hepimizden daha taşaklıymış çocuklar.,"Hepimizden daha cesur, çocuklar.",ost,2,2,3
+Bu ay üçüncü kez olmuştu bu.,Bu ay üçüncüydü.,ost,3,3,3
+Yerel Hooters'a başvuru vakti geldi.,Sanırım yerel Hooters'ıma başvurmanın zamanı geldi.,ost,2,3,2
+Saat 10'da Floransa'da oluruz.,Saat 10:00'da Floransa'da olacağız.,ost,3,3,3
+Bak itiraf etmem gerken bir şey var.,"Bak, bir itirafta bulunacağım.",ost,3,3,3
+"Matthew, bu hiç komik değil be oğlum.","Matthew, bu hiç komik değil, evlat.",ost,3,3,3
+Evlenirken hiç kimse sahte isim kullanmaz.,Kimse düğünlerde sahte isim kullanmaz.,ost,2,2,2
+Rex öğleden sonra gidip çeki aldı.,Rex bu öğleden sonra anlaşmayı aldı.,ost,2,2,2
+"Evet, acilen bir ambulans istiyorum, lütfen.","Evet, ambulansa ihtiyacım var, lütfen.",ost,2,2,3
+"Hadi ama, ne halt yediğini sanıyor bu herif?","Hadi ama, bu adam ne yapıyor?",ost,2,3,2
+Issız ve küçük bir köy vardı.,Köy küçük ve yoldan çekilmiştir.,ost,1,1,1
+Bana da bir tane alana kadar değil.,Bana bir tane verene kadar olmaz.,ost,3,3,3
+Ben size koşa koşa gelir demedim mi?,Sana koşa koşa geleceğini söylemedim mi?,ost,2,2,3
+Bütün bunları bir kenara mı atacaksın?,Hepsini atmak mı istiyorsun?,ost,0,1,0
+Yeni deri çıkarmış bir uzaylı olabilir.,Derisini döken bir uzaylı olabilir.,ost,2,3,2
+Birleşme sağlayarak her şeyi riske attın.,Bizi birleştirmek için her şeyi riske attın.,ost,1,2,1
+Bunu Pazartesi günü Beyaz Saray'da takacağım.,Pazartesi günü Beyaz Saray'da giyeceğim.,ost,2,2,2
+"Evet lan, bende, adamım, hadi alalım.","Evet, o iş bende dostum, hadi yapalım.",ost,-1,1,3
+"Bildiğiniz gibi, bölgede birçok çalkantı var.","Bildiğiniz gibi, çok fazla huzursuzluk var.",ost,1,2,1
+"Evet, siz iyi bir insansınız, Bayan Winthrop.","Evet, emin ellerdesiniz Bayan Winthrop.",ost,0,0,0
+"Sağ elinle tutup yaz, sol elinle hizala.","Sağ elinde tebeşir, solunda tahta.",ost,0,0,1
+Hadi bana bir tuz kesesi uzatın efendim.,"Buraya biraz tuz atayım, efendim.",ost,0,1,0
+"Bak, gelip onu kendin görmen gerek.","Bak, onu kendin görmelisin.",ost,2,2,3
+"Çarpıcı cümleler bulmam gerekiyor, o kadar.","Hook, doğru kancaya ihtiyacım var, hepsi bu.",ost,0,0,1
+İlk defa senden bir şey istiyorum!,Senden bir şey istediğim tek sefer!,ost,2,3,2
+Tori Amos'a bir mektup yazmıştım.,Tori amos'a bir mektup yazdım.,ost,3,3,3
+Bunla ilgili notlara bakmak ister misin?,Üzerindeki notlara bakmak ister misin?,ost,2,2,3
+Ona zarar vermeyi aklından bile geçirme artık.,Onu daha fazla incitmeye cüret etme.,ost,2,2,3
+"Yüzünün her yerinde 2,000 dolar yazıyordu.",Adamın yüzünde 2000 dolar yazılıydı.,ost,2,2,3
+Gustave en az bir mil ötede.,Gustave en az bir mil uzakta.,ost,3,3,3
+Önceki tuhaf davranışlarım için özür dilerim.,İşler daha önce tuhaflaştığı için özür dilerim.,ost,1,2,1
+Bu işte parmağın var ve bunu kanıtlayabilirim.,Ellerin her yerde ve bunu kanıtlayabilirim.,ost,1,1,1
+Eğer bana yardım edersen sana çok para veririm.,"Bana yardım edersen, seni zengin ederim.",ost,2,2,2
+Dua etmem için beni banyoya kapatırdı.,Dua etmem için beni banyoya koyardı.,ost,2,2,3
+En azından param bok yoluna gitmeyecek.,En azından param boşa gitmeyecek.,ost,2,2,3
+Buraya ilk İkinci Takım geldi efendim.,İkinci müfreze önce geldi.,ost,2,2,3
+Bunu kanıtlamak için birine ihtiyacım olacak.,Bunu kanıtlayacak birine ihtiyacım var.,ost,2,2,2
+"Bilmiyo'm, kuşkusuz um'rumda da değil.","Hayır, umurumda değil. Ve kesinlikle umurumda da değil.",ost,0,0,1
+Burada onun anlamını bilen tek kişi ben miyim?,Bunu duyan tek kişi ben miyim?,ost,1,1,1
+"Yani atladı mı, yoksa ittin mi?",Atladı mı yoksa sen mi ittin?,ost,3,3,3
+"Çok genç, inşallah ne yaptığını biliyordur.","Çok genç, umarım ne yapacağını biliyordur.",ost,2,2,2
+Sekiz ay önce bahar tatili olmuştu.,Sekiz ay önce bahar tatiliydi.,ost,3,3,3
+Etrafımdaki en yakışıklı genç o idi.,Etrafımdaki en yakışıklı çocuktu.,ost,3,3,3
+Tüm yatırımımı bu plan için harcadım.,Tüm birikimlerimi bu plana yatırdım.,ost,-1,3,1
+"Belki de o, kirayı böyle ödüyordu.",Belki de kirayı ödemek için çalışıyordu.,ost,1,1,1
+Toprağın üzerindeki her gün Pyrrhic bir zafer.,Yerden her gün Pyrrhic zaferi.,ost,1,1,2
+Onun da senin gibi dar omuzları vardı.,Onun da senin gibi küçük omuzları vardı.,ost,2,3,2
+Onu tekrar görmenin yanından bile geçemezsin.,Onu bir daha görmeye bile yaklaşamadın.,ost,-1,1,3
+Keşke bana bir kere olsun yine seslensen.,Keşke bir kez olsun beni arasaydın.,ost,1,1,2
+"Seni hayatta ve tek parça görmek güzel, Jonas.",Seni canlı görmek güzel Jonas.,ost,2,3,2
+Beni senden yardım istediğime pişman etme.,Lütfen sana sorduğum için beni pişman etme.,ost,2,2,2
+"Evet, ona ne kadar ödediğinizi biliyorum.","Evet, ona ne kadar ödediğini biliyorum.",ost,2,2,3
+"Sanırım, Nick Fisher kimdi demek istedin?",Sanırım demek istediğin Nick Fisher kimdi?,ost,3,3,3
+"O adamı bekliyorum, hani şu şeyi olan",Şeyli adamı bekliyorum.,ost,2,2,3
+Yani bir ilmek laboratuvarı olmasa da.,"Yani, bilirsin, dikiş laboratuvarı yok ama yine de.",ost,1,1,1
+Serumdan 125 miligram Solu Medrol verdik.,Ona 125 miligram SoluMedrol verdim.,ost,3,3,3
+Sadece o çizmeleri niye hademeler alsın ki?,Neden bir hademe o çizmeleri alsın ki?,ost,2,2,3
+Bir insan nasıl böyle bir şey yapabilir?,Bu adam ülkesinden gerçekten nefret ediyor.,ost,0,1,0
+Acı geçmişi de onunla birlikte göm.,Yanında gömülüyken de işkence görmüş.,ost,0,0,0
+Git Marcia ve Peter'ı bul da yolunu bak bari.,Git Marcia ve Peter'ı bul ve git.,ost,-1,3,1
+Bütün geceyi o aptal şeye bakarak geçirrdim.,Bütün gece o aptal şeyi aradım.,ost,2,3,2
+Senin lanet olası kuklan filan olmayacağım ben!,Senin kuklan olmayacağım!,ost,2,2,2
+"Hayır, bildiğine dair hiçbir fikrim yok.","Hayır, biliyor mu bilmiyorum.",ost,2,3,2
+"Sizin beden kaç, yaklaşık 34, 36 mı?","Nesin sen, 34-36 yaşlarında mı?",ost,1,1,1
+"Dünyanın en mutlu insanıydım ki, aniden",Dünyanın zirvesindeydim ve sonra...,ost,1,2,1
+"Geri döndüm, ama kimse yerini bilmiyor.","Geri geldim, kimse nerede olduğunu bilmiyor.",ost,2,3,2
+Artık her ne ise canlı değil.,"Canlı değil, her neyse.",ost,2,2,3
+Bu teste kadar 2 saatim var.,Bu teste girmek için iki saatim var.,ost,2,3,2
+"Tamam, dostum bunu yapmana gerek yok.","Tamam dostum, bunu yapmak zorunda değilsin.",ost,3,3,3
+Belki hana vardığımızda orada buluruz onu.,Belki oraya vardığımızda handa olur.,ost,3,3,3
+"Çocuk yükselmek istiyor, pek zeki değil.","Çocuk bir dağcı, pek zeki değil.",ost,0,1,0
+O yüzden herkes ona Ally diyordu.,Herkes ona Ally dedi.,ost,1,2,1
+Kurt gündüzleri dinlenir ve geceleri ava çıkar.,Kurt gündüzleri dinlenir ve geceleri pusuya yatar.,ost,2,2,3
+"Yapma, o kadar da kötü değil.","Hadi ama, o kadar da kötü değil.",ost,3,3,3
+İçeri mi gireyim yoksa dışarı mı çıkayım?,"Giriyor muyum, çıkıyor muyum?",ost,2,2,2
+Canına yandığımın FBI'ında koridor bekçisi!,FBI için koridor monitörü!,ost,0,1,0
+"Bay Mathur, sen ve ben aynıyız.","Bay Mathur, siz ve ben aynıyız.",ost,3,3,3
+"Kaçmaya kalkma, seni yabancı ülkelere satarım.",Kaçma yoksa seni yurtdışına satarım.,ost,3,3,3
+O kadar ileri gidip kendini içeri attırma.,"O kadar uzağa gitme, seni gerçekten hapse atarlar.",ost,2,2,3
+Ama bir göz doktoruna görünmen lazım bence.,Ama bence gözlerini kontrol ettirmelisin.,ost,3,3,3
+Bu çaydanlığın kullanma kılavuzu var mı?,Bu çömlek yol tarifleriyle birlikte mi geliyor?,ost,0,1,0
+Şeyh Hulud'un bize gönderdiği peygambersin.,Sen Shaihulud'un gönderdiği peygambersin.,ost,2,2,3
+Erkekler onun için birbirleriyle kavga ederdi.,Eskiden erkekler onun için kavga ederdi.,ost,3,3,3
+"İçime kötü bir his doğdu, Boyd.",İçimde kötü bir his var Boyd.,ost,3,3,3
+Ona bir mektup yazarsın diye düşünmüştüm.,Ona bir mektup yazabilirsin diye düşündüm.,ost,2,3,2
+Onu bir kanoya bindir ve gönder.,Onu bir kanoya koy ve geri gönder.,ost,2,2,3
+Beni tekrar İngiltere'ye götürmen gerek.,Beni İngiltere'ye geri götürmeni istiyorum.,ost,3,3,3
+Ve üste geçeyim derken tavana toslarlar.,Sonra tavana çarparlar.,ost,1,1,1
+Daha önce hiç bir ünlüyle tanışmamıştım.,Daha önce hiç ünlü biriyle tanışmamıştım.,ost,3,3,3
+Bay Godot'dan mesaj mı getirdin?,Bay Godot'tan bir mesajınız var mı?,ost,-1,1,3
+Babam kazadan uzun süre önce ölmüş.,Babam kazadan çok önce ölmüştü.,ost,3,3,3
+"Walsh, bunu Çavuş Brown'a anlatmalıyız.","Walsh, Çavuş Brown'a söylemeliyiz.",ost,3,3,3
+Yanımda olduğunu bilmek bana güven veriyor.,Burada olduğunu bilmek bile kendimi güvende hissettiriyor.,ost,2,2,3
+Hayatınıza bir son vermenin en kolay yolu.,Hayatlarınızı sona erdirmek daha kolay.,ost,0,0,1
+Ve çölde bir yaşam daha yanıp gidiyor.,Çölde başka bir alev daha yanıyor.,ost,1,1,1
+O 2 ayı unutmayı kendi seçti.,O iki ayı unutmayı seçti.,ost,3,3,3
+"Hadi kazanalım, ona bir veda hediyesi olsun.",Kazanıp ona bir veda hediyesi alalım.,ost,2,2,3
+Leslie Winkle ile 2 tek gecelik ilişki.,Leslie Winkle'la iki seks görüşmesi.,ost,2,2,3
+I'm not making that a thing.,Ben öyle bir şey yapmıyorum.,ost,0,0,1
+İçiniz rahat eder mi o zaman?,Bu seni daha iyi hissettirir mi?,ost,2,3,2
+Yani bir yok etme iksiri yapabiliriz.,Böylece bir yok etme iksiri yapabiliriz.,ost,2,2,3
+Bu yüzden büyük bir kuş aldım.,"Yani, bu yüzden çok büyük bir kuş.",ost,1,1,1
+Bu harika bir eski oyuncak bebek.,Çok şık bir bebek.,ost,1,1,1
+İşler yeni yeni normale dönmeye başlamıştı.,Her şey normale dönüyordu.,ost,2,2,2
+"Tüm bunlar, onun için oldukça zordu.",Onun için çok zordu.,ost,1,1,2
+Şimdi de bunu şu sürünün üzerinde deneyelim.,Hadi şu sürüyü çalıştıralım.,ost,1,1,1
+Türümün son örneği olmam gerektiğine de,Türümün son örneği olacağımı.,ost,2,2,3
+Bu tür bir şey mi duymak istersiniz?,Bu tür şeyleri duymak ister misin?,ost,2,2,2
+Peki sen bu durumda ne yaptın?,O durumda ne yaptın?,ost,3,3,3
+Ben ne zaman içki içermisin diye sordum!,Ben ne zaman içki istedim?,ost,1,1,1
+Sizin için bi tane daha var.,Bir tane daha var.,ost,1,2,1
+"Haydi ama, seni göğüslerime bakarken gördüm.","Hadi ama, seni göğsüme bakarken gördüm.",ost,3,3,3
+"Evet, bir bardak kahve bunu kapatır.","Evet, bir fincan kahve yeterli olur.",ost,2,2,2
+"Bay Wolfe, bir şey çıktı mı?","Bay Wolfe, beni mi arıyordunuz?",ost,0,1,0
+Neden bizi karşısına alsın ki şimdi?,Neden şimdi bize sırt çevirsin ki?,ost,1,1,1
+Bu yüzden çölden uzak durmak istersin.,Bu yüzden çölden uzak durmak istiyorsun.,ost,2,2,3
+Raffaele ve ben bunu çoktan anlamıştık!,Raffaele'le ben olayı çözdük bile!,ost,2,2,3
+Ya da köpeğini Belize'ye götürür?,Yoksa köpeğini Belize'ye mi götürüyor?,ost,2,2,2
+"Epey bir sorumluluk gerektirir, değil mi?","Bu büyük bir sorumluluk, değil mi?",ost,2,2,3
+"Genç bir kızla birlikte yaşıyorum, Anna.",Anna adında genç bir kızla yaşıyorum.,ost,2,2,2
+"Onun en sadık hastaların biri olacak,",Onun en sadık hastalarından biri olacak.,ost,2,2,3
+O yüzden eğitime geri dönebilir miyiz lütfen?,Antrenmana geri dönebilir miyiz lütfen?,ost,2,2,2
+Bu hepimiz için çok güzel bir ders.,Hepimizin sevdiği çok güzel bir konu.,ost,1,1,2
+burası amcam'ın çalışma odasının kapısı.,Bu amcamın çalışma odasının kapısı.,ost,3,3,3
+Beni odaya sen kilitledin değil mi?,"Beni odama kilitledin, değil mi?",ost,2,3,2
+Bir an için sizi görebilir miyim?,Bir dakika görüşebilir miyiz?,tat,2,2,2
+Lütfen biraz daha hızlı sürer misin?,Biraz daha hızlı sürebilir misin?,tat,3,3,3
+Tom'un yazdığı kitap asla yayınlanmadı.,Tom'un yazdığı kitap hiç yayınlanmadı.,tat,3,3,3
+Seni gezdirmekten mutlu olurum.,Size etrafı gezdirmekten mutluluk duyarım.,tat,2,2,3
+Bende o şekilde işe yaramıyor.,Bu iş bana göre değil.,tat,-1,2,0
+BBC mi yoksa CNN mi izliyorsun?,BBC ya da CNN izliyor musun?,tat,1,1,2
+Bana hem elbiseler hem de yiyecek verdi.,Bana yemek kadar kıyafet de verdi.,tat,1,1,2
+Tom boğazıma bir bıçak soktu.,Tom boğazıma bıçak dayadı.,tat,1,2,1
+Tom bana istediğim her şeyi vermeye söz verdi.,Tom istediğim her şeyi vereceğine söz verdi.,tat,2,2,3
+Sami bir sigara için dışarı çıktı.,Sami sigara içmek için kaçtı.,tat,3,3,3
+Tom'un adını listeye koyalım.,Tom'un adını listeye ekleyelim.,tat,3,3,3
+Şu anda ne istiyorsun?,Şimdi ne istiyorsun?,tat,3,3,3
+Tekrar ne zaman buluşabiliriz?,Bir daha ne zaman görüşebiliriz?,tat,3,3,3
+Ne işler çevirdiğini biliyorum.,Neyin peşinde olduğunu biliyorum.,tat,3,3,3
+Tom hiç tehlikeli görünmüyordu.,Tom hiç de tehlikeli görünmüyordu.,tat,3,3,3
+Tom'un bunu yapacak yeteneği olduğunu sanmam.,Tom'un bunu yapabilecek yeteneğe sahip olduğundan şüpheliyim.,tat,3,3,3
+Tom şaşkın olduğunu söylüyor.,Tom kafasının karıştığını söylüyor.,tat,2,2,2
+Tom bir saat koşu bandında yürüdü.,Tom koşu bandında bir saat yürüdü.,tat,3,3,3
+Tom'a güvenmek zorunda kalacaksın.,Tom'a güvenmek zorundasın.,tat,2,3,2
+Tom ve Mary son zamanlarda evlendiler.,Tom ve Mary yakın zamanda evlendiler.,tat,3,3,3
+Gerçekten de o kadar yaşlı mıyız?,Gerçekten o kadar yaşlı mıyız?,tat,3,3,3
+Çok travmatik bir şeydir.,Bu çok travmatik bir şey.,tat,3,3,3
+Aslında onun Tom olduğunu sanmıyorum.,"Aslında, Tom olduğunu sanmıyorum.",tat,3,3,3
+Sen bir ilişki yaşıyor musun?,Bir ilişkin mi var?,tat,2,3,2
+Ben sadece birinci sınıf öğrencisiyim.,Ben daha birinci sınıftayım.,tat,3,3,3
+Biz hala sebebini bilmiyoruz.,Nedenini hala bilmiyoruz.,tat,3,3,3
+Babam bunu biliyor mu?,Babamın bundan haberi var mı?,tat,3,3,3
+Tom bir sopayla yere yazdı.,Tom yere bir sopayla yazdı.,tat,3,3,3
+Onların işi sözlüğe örnekler eklemek.,Görevleri sözlüğe örnekler eklemektir.,tat,3,3,3
+Bunun kişisel olduğuna eminim.,Eminim kişisel bir şeydir.,tat,3,3,3
+"Polis, Dan'i mutfak zemininde ölü buldu.",Polis Dan'i mutfakta ölü buldu.,tat,3,3,3
+O köpeği onlara verdin mi?,O köpeği onlara sen mi verdin?,tat,1,2,1
+Tom o kadar açtı ki köpek maması yedi.,Tom o kadar acıkmıştı ki köpek maması yedi.,tat,3,3,3
+O ona vurmak için kışkırtıldı.,Ona vurması için kışkırtıldı.,tat,3,3,3
+Lütfen bunu İngilizceye çevir.,Lütfen bunu İngilizceye yaz.,tat,1,2,1
+Dilbilgin ve telaffuzun kusursuz.,Dilbilgisi ve telaffuzu mükemmel.,tat,2,2,2
+Tom kedisinin dışarı çıkmasına izin verdi.,Tom kediyi dışarı çıkardı.,tat,1,1,2
+Bu basit ama sevgiyle yapılmış.,Basit ama aşkla yapılmış.,tat,2,3,2
+Afrika'nın doğası zengindir.,Afrika'nın çok doğası vardır.,tat,1,1,1
+Tom'a bizden bahsetmek zorunda kaldım.,Tom'a bizden bahsetmeliydim.,tat,1,2,1
+Sanırım Tom'a bir iPad almalıyız.,Bence Tom'a bir iPad almalıyız.,tat,3,3,3
+Biraz zaman yaratsak iyi olur.,Biraz zaman kazansak iyi olur.,tat,2,2,3
+Onları bulmada yardımına ihtiyacımız var.,Onları bulmak için yardımına ihtiyacımız var.,tat,3,3,3
+O aşağıya kahvaltıya indi.,Kahvaltıya geldi.,tat,2,2,3
+"Kar, treni seferden alıkoydu.",Kar trenin çalışmasını engelledi.,tat,2,3,2
+Onu gerçekten çok sevmeliyim.,Ondan çok hoşlanıyorum.,tat,1,1,2
+Tom'a çok yakın yaşıyorum.,Tom'a çok yakın oturuyorum.,tat,3,3,3
+Bunu nasıl düzelttiğimi hatırlamıyorum.,Nasıl tamir ettiğimi hatırlamıyorum.,tat,2,3,2
+Belki toplantıyı iptal etmelisin.,Belki de toplantıyı iptal etmelisin.,tat,3,3,3
+Bütün gündür seni bekliyorum.,Bütün gün seni bekledim.,tat,3,3,3
+"Tom bencil, değil mi?","Tom bencil biri, değil mi?",tat,3,3,3
+Bu aşina olduğum bir şey değil.,Bu benim bildiğim bir şey değil.,tat,3,3,3
+Şimdiye kadar kaç tane şehir bombalandı?,Şimdiye kadar kaç şehir bombalandı?,tat,3,3,3
+"Kazaya sebep olan şoför, adamı gördü.",Kazaya sebep olan sürücü adamı görmüş.,tat,3,3,3
+Aslına uygun bir çeviri ekleyebilirsin.,Kelimenin tam anlamıyla bir çeviri ekleyebilirsiniz.,tat,1,1,1
+Tom yaşlı bir adam gibi konuşur.,Tom yaşlı bir adam gibi konuşuyor.,tat,3,3,3
+Bence bir fark yaratacak.,Bence bu bir fark yaratacak.,tat,3,3,3
+Ben kırsalda yaşamak istiyorum.,Taşrada yaşamak istiyorum.,tat,3,3,3
+Yakında biz sizi hapse gönderebileceğiz.,Yakında seni hapse gönderebileceğiz.,tat,2,2,3
+Biz Amerika'dan un ithal ederiz.,Amerika'dan un ithal ediyoruz.,tat,2,3,2
+Belki Tom ve ben de yanılıyoruzdur.,Belki Tom ve ben yanılıyoruzdur.,tat,3,3,3
+Ben çok iyi hissetmiyordum.,Kendimi pek iyi hissetmiyordum.,tat,3,3,3
+Bir saniye içinde geri geleceğim.,Hemen dönerim.,tat,2,2,3
+Yarın için ödev nedir?,Yarınki görev ne?,tat,3,3,3
+Biz onu çok ciddiye aldık.,Bunu çok ciddiye aldık.,tat,2,2,2
+Ne kadar süredir bu öksürüğün var?,Ne zamandır öksürüyorsun?,tat,3,3,3
+""" Can't "" diye bir sözcük yoktur.","""Can't"" diye bir kelime yoktur.",tat,3,3,3
+Tom iyi Fransızca konuşur.,Tom iyi Fransızca biliyor.,tat,2,2,3
+Biz onun bir parçası olmak istedik.,Bunun bir parçası olmak istedik.,tat,3,3,3
+Neden Tom'la birlikte Boston'a gitmeliyim?,Neden Tom'la Boston'a gideyim ki?,tat,3,3,3
+Biraz yardıma ihtiyaç duyabiliriz.,Yardıma ihtiyacımız olabilir.,tat,3,3,3
+Tom kendini Fransızca olarak ifade edemez.,Tom kendini Fransızca anlamıyor.,tat,1,1,1
+O dün gece geç yattı.,Dün gece geç saatlere kadar yattı.,tat,1,1,1
+Acaba Tom bugün neden bu kadar uykulu.,Tom'un bugün neden bu kadar uykulu olduğunu merak ediyorum.,tat,3,3,3
+Biz onun olduğunu gördük.,Olanları gördük.,tat,2,2,3
+Tom çok gitar çalıyor.,Tom çok gitar çalar.,tat,3,3,3
+Tom'u bul ve onu öldür.,Tom'u bul ve öldür.,tat,3,3,3
+Konuşma gösterileri seyretmeyi severim.,Talk show izlemeyi seviyorum.,tat,3,3,3
+"Yarın konuşma yapıyorsun, değil mi?","Yarın bir konuşma yapacaksın, değil mi?",tat,3,3,3
+O beni usulca dudaklarımdan öptü.,Beni dudaklarımdan usulca öptü.,tat,3,3,3
+Bu haberi kim yayıyor olabilir?,Bu haberi kim veriyor olabilir?,tat,2,2,2
+"Yine de, savaş bitmedi.",Yine de savaş bitmemişti.,tat,3,3,3
+Park yerinde neredeyse hiç araba yoktu.,Otoparkta neredeyse hiç araba yoktu.,tat,3,3,3
+Şimdi seninle konuşmam gerekiyor.,Seninle şimdi konuşmam gerek.,tat,3,3,3
+Senin ablan ile tanışmak istiyorum.,Ablanla tanışmak istiyorum.,tat,3,3,3
+O fikri Tom'a ne verdi?,Tom'a bu fikri veren neydi?,tat,3,3,3
+"Elinden geleni yap, Tom.","Sırtını koy, Tom.",tat,0,0,0
+Küçük kız kardeşim beni öldürmek istiyor.,Küçük kardeşim beni öldürmek istiyor.,tat,2,2,3
+Pek çok yıldız galaksiyi oluşturur.,Galaksi içinde birçok yıldız oluşuyor.,tat,0,1,0
+Bunun ne olduğunu sana söyleyemem.,Sana ne olduğunu söylemeyeceğim.,tat,2,2,3
+Ken'in senden çok daha fazla kitabı var.,Ken'in senden daha çok kitabı var.,tat,2,2,3
+"Tom'un bu yarışı kazanması gerekir, sanırım.",Tom bu yarışı kazanmalı bence.,tat,3,3,3
+Kız kardeşim senden daha genç.,Kız kardeşim senden küçük.,tat,3,3,3
+Tom eve kadar yol boyunca koştu.,Tom eve kadar koştu.,tat,2,2,3
+Sen çok mu acıktın?,Çok mu açsın?,tat,3,3,3
+"Ben fakirim, ona gücüm yetmez.","Ben, fakir olan, bunu karşılayamam.",tat,2,2,3
+Bu Tom ve kedisinin bir resmidir.,Tom ve kedisinin fotoğrafı.,tat,3,3,3
+Kış benim gözde mevsimimdir.,Kış benim en sevdiğim mevsimdir.,tat,2,2,3
+Tom bir hata yaptığını fark etmedi.,Tom hata yaptığının farkında değildi.,tat,3,3,3
+Onu Tom mu yaptı?,Tom başardı mı?,tat,1,1,2
+Uğradığımı Tom'a söyler misin?,Tom'a uğradığımı söyler misin?,tat,3,3,3
+Hiç bir işçiyi kovdun mu?,Hiç işçi kovdun mu?,tat,3,3,3
+Onlar sadece oraya gitmemizi istemiyorlar.,Oraya girmemizi istemiyorlar.,tat,2,2,2
+Sanırım Tom henüz gitmedi.,Sanırım Tom henüz ayrılmadı.,tat,2,3,2
+Tom sigara içmemeye söz verdi.,Tom sigara içmeyeceğine söz verdi.,tat,3,3,3
+Tom açık kapıyı itti.,Tom kapıyı zorla açtı.,tat,2,2,2
+Bir kerize benziyor muyum?,Embesil gibi mi görünüyorum?,tat,3,3,3
+Bu tartışma çok siyasi oluyor.,Bu tartışma çok politik olmaya başladı.,tat,3,3,3
+Bana başka bir oda gösterir misin?,Bana başka bir oda gösterebilir misin?,tat,3,3,3
+Biz buna aylardır kafa yorduk.,Aylarca bunun için üzüldük.,tat,1,1,1
+Neredeyse her zaman tartışmaları kazanırım.,Hemen hemen her tartışmayı kazanırım.,tat,3,3,3
+Koleje kaydolan tek çocuktum.,Üniversiteye kaydolan tek çocuktum.,tat,2,3,2
+Onlar sadece umudunu kaybetti.,Sadece umutlarını yitirdiler.,tat,3,3,3
+O gömleği nerede aldın?,Bu gömleği nereden buldun?,tat,2,2,2
+O bir öğrenci gibi görünüyor.,Görünüşe göre o bir öğrenci.,tat,3,3,3
+Biz bir sürü gürültü yaptık.,Çok ses çıkardık.,tat,3,3,3
+Tom onu buldu mu?,Tom buldu mu?,tat,2,2,3
+Tom'u aramak zorundayız.,Tom'u aramalıyız.,tat,2,2,3
+Beni zaman zaman hatırla.,Ara sıra beni hatırla.,tat,3,3,3
+Tom erken kalkmaya alışık.,Tom erken kalkmaya alışkındır.,tat,3,3,3
+Tom'un bunu yapmasına yardım etmek istiyoruz.,Tom'a yardım etmek istiyoruz.,tat,2,2,2
+Problemi çözmek onun için zordu.,Sorunu çözmek onun için zor.,tat,3,3,3
+"Zaten Tom burada değildi, değil mi?","Tom buraya gelmedi, değil mi?",tat,2,3,2
+Ben bir helikopter kullanabilirim.,Bir helikoptere pilotluk yapabilirim.,tat,3,3,3
+Onlara telefon etsen iyi olur.,Onları arasan iyi olur.,tat,3,3,3
+Ben sık sık depresif hissediyorum.,Sık sık depresyona giriyorum.,tat,3,3,3
+"Sami, Leyla'ya acı çektirdi.",Sami Layla'ya acı çektirdi.,tat,3,3,3
+Sorunun bir parçası da benim.,Ben de sorunun bir parçasıyım.,tat,3,3,3
+Öğleden sonra saat beşte orada olacağım.,Akşam beşte orada olurum.,tat,3,3,3
+Benim annem de çok otoriterdi.,Annem de çok katıydı.,tat,2,2,2
+Saat kaçta dersiniz biter?,Dersin kaçta bitiyor?,tat,2,2,3
+O bizim grupta değil.,Bizim grubumuzda değil.,tat,3,3,3
+Tom da kayak sever.,Tom da kayak yapmayı seviyor.,tat,3,3,3
+Tom notu Mary'ye uzattı.,Tom notu Mary'e verdi.,tat,2,3,2
+İşte mucize burada başlıyor.,Sihrin gerçekleştiği yer burası.,tat,1,1,2
+Tom ve Mary beraber şarkı söyleyecekler.,Tom ve Mary birlikte şarkı söyleyecekler.,tat,3,3,3
+Tom o doğduğundan beri Mary'yi tanıyor.,"Tom, Mary'i doğduğundan beri tanır.",tat,2,2,3
+Seni sonra temizlemek zor!,Seni temizlemek çok zor!,tat,-1,3,1
+Ben spor salonunda çalışmaktan hoşlanırım.,Spor salonunda çalışmak hoşuma gidiyor.,tat,3,3,3
+Bence onun adı Mary.,Sanırım adı Mary.,tat,2,3,2
+Benim her zaman bir not defterim var.,Her zaman bir not defterim vardır.,tat,3,3,3
+Ne zaman başım derde girse yanımda oldu.,Ne zaman başım belaya girse yanımdaydı.,tat,3,3,3
+Polisler Tom'un lastiklerine ateş ettiler.,Polis Tom'un lastiklerini vurdu.,tat,3,3,3
+Ne olduğunu ikimiz de biliyoruz.,İkimiz de ne olduğunu biliyoruz.,tat,3,3,3
+Ben de onu gördüm.,Onu ben de gördüm.,tat,3,3,3
+Hasta olan bir oğlum var.,Hasta bir oğlum var.,tat,3,3,3
+Tom atlara binmede iyidir.,Tom ata binmekte iyidir.,tat,2,2,3
+Kulübün başkanı olmaya davet edildi.,Kulübün başkanlığına davet edildi.,tat,3,3,3
+Neden Tom beni görmek istemiyor?,Tom neden beni görmek istemiyor?,tat,3,3,3
+Neden Tom Mary'yi öpmek istemezdi?,Tom neden Mary'i öpmek istemesin ki?,tat,-1,1,3
+Ben hep bunların iki ucun en iyi özelliklerine sahip olduklarını düşünmüşümdür.,Ve sık sık dünyanın en iyisine sahip olduklarını düşünüyorum.,ted,1,1,1
+SOPA ve PIPA'nın gerçek etkileri istenilenlerden çok daha farklı olacak.,SOPA ve PIPA'nın gerçek etkileri önerilen etkilerden farklı olacak.,ted,2,2,3
+Ve bu mesaj gerçekten de bugünkü toplum için çok değerli.,"Ve bu mesaj, açıkçası, bugün toplum için çok değerli.",ted,3,3,3
+Ve belki farkettiğiniz gibi bu mavi noktaların çoğu okyanusun ortasında duruyor.,"Ve bu mavi noktalarda fark etmiş olabileceğiniz şey, çoğu okyanusun ortasında.",ted,3,3,3
+TR : Katılmak için kendinizi bu kadar zorlamasaydınız.,Yüksek seviyedeki etkileşim için teşekkürler.,ted,0,0,1
+Bunun ne demek oldugunu bir dusunsenize,Bunun ne anlama geldiğini bir düşün.,ted,2,3,2
+Anaokulu anaokulunda başlar.,Anaokulu anaokulunda başlıyor.,ted,3,3,3
+Onu sizin için işaretliyim.,Senin için altını çizeyim.,ted,-1,3,1
+Neden bundan bahsediyorum? Çünkü çok yakında İkinci Aşama kabilesi olarak adlandırdığımız bir kabileye gireceğim. Böyle bir şey.,"Ve bunun konuyla ilgili olmasının sebebi çok yakında ikinci aşama kabilesi olarak adlandırdığımız, buna benzeyen bir kabileye doğru yürüyebilmem.",ted,2,2,2
+"Bunun olmasına imkan yok. "" dedim","Böyle bir şey asla olmaz.""",ted,1,2,1
+"Bunun aksine, şu anda mutsuz olmak ile kısa bir süre aklın başka bir yerde olması arasında hiçbir ilişki yok.","Buna karşılık, şu anda mutsuz olmak ve kısa bir süre sonra zihin değiştirmek arasında bir ilişki yoktur.",ted,0,0,1
+"Tren tam kalkarken, genç bir çift içeri girdi tam da basınçlı kapıları kapanırken.",Tren tam gitmek üzereyken genç bir çift içeri giriyor ve pnömatik kapıları kapatmak üzereler.,ted,2,2,2
+İşte bulmaca şu.,İşte puzzle.,ted,2,3,2
+Üniversite son sınıftayken Avrupann Entellektüel tarihi isimli bir ders alıyordum.,Son senemde üniversitedeyken Avrupa Entelektüel Tarihi adında bir kurs almıştım.,ted,3,3,3
+Yani bu veriyi elverişli kılarak dünyayı daha iyi bir yer yapmaktan söz ediyoruz.,Bu verileri elde ederek dünyayı daha iyi bir hale getirmekten bahsediyoruz.,ted,2,2,2
+Ama herhangi biriniz soracak olursa'Aslında ne artıyor? Hiçbir şey artmıyor mu?,"Ama aranızdan biri ""Ne oluyor, bir şey çıkıyor mu?"" diye sorarsa...",ted,1,1,1
+"Bunu Uluslararası Para Fonu hazırlamadı. Bunu, 21 yıl çalıştığım ve başkan yardımcılığına terfi ettiğim Dünya Bankası da hazırlamadı.","Uluslararası Para Fonu değil, 21 yıl çalıştığım ve başkan yardımcısı olarak yükseldiğim Dünya Bankası değil.",ted,2,2,2
+Diğer taraftan çocukların bakış açılarını genişletebilirsek ancak o zaman kendilerini başkalarının yerine koymayı öğrenebilirler.,"Ve buna karşılık, sadece bakış açılarını öğrettiğinde bir çocuk hayal edebilir ve kendini onlardan farklı birinin yerine koyabilir.",ted,2,2,2
+Tıpkı bizim kadar hırslı.,Bu da bizim kadar hırslı.,ted,2,2,3
+Geleneksel bir ordu seçenekleri açık şekilde yok.,Sıradan bir askeri seçenekleri yok.,ted,1,2,1
+"Çünkü bakarsan, hala görebiliyorum.","Çünkü eğer bakarsan, şimdi, hala görebiliyorum.",ted,3,3,3
+Bilinen türlerin sayısı ise beş bin altı bin arasında.,Bilinen beş ila altı bin türü vardır.,ted,3,3,3
+"Şimdi doğrunun neye benzediği çerçevesindeki teknoloji, bilim gelişmeye devam ediyor.","Şimdi gerçeğin nasıl göründüğünün etrafındaki teknoloji, bilimin ilerlemesini sağlıyor.",ted,1,1,1
+"MR : Gideceğimi ya da yapacağımı ben önermiyorum, ama",Gidip yapacağımı ima etmiyordum ama...,ted,1,1,1
+"Onun yerine, buradaki öğe çok daha banal.","Bunun yerine, buradaki element çok daha sıradan.",ted,3,3,3
+Süperhidrofobik bir su damlasının bir yüzeyde nasıl davrandığının bir ölçüsü.,Süperhidrofobik bir yüzeydeki bir damla suyu nasıl ölçtüğümüzdür.,ted,1,1,2
+"Aslında, ben cevabın gözümüzün önünde olduğunu düşünüyorum. Bilgisayarları kullanmak.",Aslında cevabın tam karşımızda olduğunu düşünüyorum: bilgisayar kullanın.,ted,2,3,2
+Ve bu da işin üzücü kısmı.,Ve en üzücü kısmı da bu.,ted,2,2,3
+"Yakin bir zamanda, yine Esquire icin radikal durustluk uzerine baska bir yazi yazdim.",Daha yakın zamanda Esquire için radikal dürüstlük hakkında bir makale yazdım.,ted,2,2,2
+"Elbette hepiniz bunun ne olduğunu biliyorsunuz, değil mi?","Ve tabii ki hepiniz bunun ne olduğunu biliyorsunuz, değil mi?",ted,3,3,3
+Tamam şimdi merceklemeyi sağlayacak şekle sahip.,Lensi üretmek için doğru şekle sahip.,ted,1,2,1
+Çünkü çocukken çok fazla gitar da çaldım.,Çünkü çocukken ben de çok gitar çalardım.,ted,2,3,2
+"Yani, hayvanlarla etkileşime geçme arzusu duyduğumuz her zaman, ki bununla en azından "" Hayvanları beslemeyin! "" tabelası kadar sık karşılaşılır.","Ve ne zaman hayvanlarla etkileşime girmek istesen, ki en azından bu işaret kadar yaygındır: ""Hayvanları beslemeyin.""",ted,2,3,2
+Anlatacağım ki baya bi'ilgisi var.,Sana çok şey anlatacağım.,ted,1,1,2
+Ama onun geliştirmeleri inanılmazdı.,Ama geliştirmeleri inanılmazdı.,ted,3,3,3
+Böyle bir resim karşısında yapabileceğiniz şeylerden biri onu takdir etmek.,Böyle bir resimle yapabileceğin tek şey ona hayran olmaktır.,ted,2,2,2
+"Ve bu neden alet kullanımında, başlangıçta, binlerce yıl boyunca, herşey benliğin fiziksel bir modifikasyonu olmuştur.","Ve bunun nedeni, araç kullanımının, başlangıçta binlerce ve binlerce yıldır, her şey benliğimin fiziksel bir modifikasyonu olmuştur.",ted,1,1,1
+"Böylece yer değiştirdim. MIT'ye gittim, bitirdim.","Ben de biraz değiştim. MIT'ye gittim, bitirdim.",ted,1,1,2
+"Ancak bu yapılar, temelde, dışsallaştırılmış mide ve akciğerlerdir.",Ama bunlar aslında dışsallaştırılmış mideler ve akciğerler.,ted,3,3,3
+İşin gerçeği bu. Anlatmaya çalıştığım şey de bu.,Ve bu gerçek ve ben de bunu ortaya çıkarmaya çalışıyorum.,ted,2,3,2
+"SJ : Harika, teşekkürler.","SJ : Mükemmel, teşekkürler.",ted,3,3,3
+Bazıları bu görüntülerin Irak'taki ayaklanmaları neredeyse diğer her bir oluşumdan daha fazla körüklediğini söyleyebilir.,Bazıları bu görüntülerin Irak'taki ayaklanmayı diğer tüm eylemlerden daha fazla körüklediğini iddia ediyor.,ted,2,3,2
+Bu onun evreninin yarattıklarının bir kısmı.,Bu onun evreninin bazı kuşakları.,ted,1,1,1
+Harvard Business School'da bitirilmiş bir harita.,Bu Harvard Business School'da bitirilen bir harita.,ted,3,3,3
+"Normal insanlar kanuna aykırı yaşıyorlar, ve bu, tam da benim -sizlerin- çocuklarımıza yaptığımız şey.",Sıradan insanlar hayatı kanunlara karşı yaşarlar ve ben de çocuklarımıza bunu yapıyorum.,ted,2,2,3
+"Ve onlar yardım isteyebilecek insanlar değiller, kendileri son derece yardımsever olsalar dahi","Ve onlar yardım istemekten hoşlanan insanlar değiller, her ne kadar gelmiş geçmiş en yardımsever insanlar olsalar da.",ted,3,3,3
+"Sonra düşündük ki yapılması gereken, emekle ilgili bir halka ilişkiler konusması yapmak el emeğiyle, kalifiye emekle ilgili.","Yani, yapmamız gereken şey, iş için bir halkla ilişkiler kampanyası, el işçiliği, yetenekli bir işçilik hakkında konuşmak.",ted,2,3,2
+"Hatta sadece sayfaları temizlemek için "" Vandalizm Karşıtı Ünite "", "" Kibarlık, Olgunluk, Sorumluluk "" gibi gruplar oluşturuyorlar.",Hatta sadece sayfaları temizlemek için Anti-Vandalism Birimi gibi gruplar halinde toplanıyorlar.,ted,1,1,1
+"Şimdi, bir sahne kulesinin normalde sağladığı tüm özgürlükleri tabii ki bu süper sahne kulesinde de kullanıyoruz ve bunları sahne kulesiyle oditoryuma kadar yayıyoruz.","Şimdi, süper sinek, kavram şu ki, normalde sinek kulesiyle ilişkilendirdiğiniz tüm özgürlükleri alıp, sinek kulesine ve salona bulaştırıyorsunuz.",ted,0,0,0
+"aynı zamanda en temelde savaşta "" kimin "" savaşacağını da etkileyecektir. Diğer bir deyişle, savaş konusunda tüm gerçekleşmiş devrimlerde, gerek makinalı tüfekte, gerek atom bombasında,",En azından yazdığı gibi bir robot öldüğünde annesine mektup yazmak zorunda kalmazsın.,ted,0,0,0
+Her yıl kendi yılbaşı kartlarını hazırlarlar,Eskiden her yıl Noel kartı yaparlardı.,ted,1,1,2
+"Sizi uyarmalıyım, iki video da oldukça etkileyici.","Seni uyarmalıyım, oldukça güçlüler.",ted,2,2,2
+Şişelerde depolanmış rüzgarla çalışıyor.,Ve bu şişelerdeki rüzgarlar üzerinde çalışıyor.,ted,2,2,2
+"Tek dezavantajı çizimin sadece bir bölümünü görebiliyordunuz ama özgün çizimler, mimari yapılar için ideal ortam sunuyordu","Bunun beklenmeyen sonuçları, imajınızın sadece bir kısmını görmenizdir, bu yüzden çok serbest stil bir mimari oluşturur.",ted,1,1,1
+Şu an işe yarayan ve insanların depoladığı bir tane antiviral var. Tamiflu.,"İnsanların hala işe yarayan bir antiviral var, kabaca Tamiflu.",ted,-1,1,3
+"Bu yüzden, nereden başlamam gerektiğini bilmesem de müzikal kompozisyonlardan bahsedeceğim.",Nereden başlayacağımı bilmesem de müzikal kompozisyon hakkında konuşacağım.,ted,2,2,2
+"Bu da üzerinde bulunduğu arazi. Jeolojik araştırmalardan biliyoruz ki, buralar Mars'ın en eski bölgeleri.","Ve burası üzerinde göründüğü arazi, ve jeolojik çalışmalardan biliyoruz ki bu bölgeler Mars'ın en eski bölgeleri.",ted,3,3,3
+Gerçekten çok kutsaldır.,Burası gerçekten kutsal bir yer.,ted,2,3,2
+Empatiyle başla.,Empati ile başla.,ted,3,3,3
+""" OSHA? Okyanus. "" diyor","Ve dedi ki, ""OSHA, okyanus.""",ted,1,1,2
+Peki kullanıcının videosunun kopya olduğunu nasıl biliyoruz.,Ama kullanıcının videosunun kopya olduğunu nereden biliyoruz?,ted,3,3,3
+"Güzel, manlıklı bir ilerleme istersiniz.",Mantıklı bir ilerleme istiyorsun.,ted,3,3,3
+Ve birden kaosun içinden düzen doğar.,"Ve aniden, kaostan, düzen.",ted,1,2,1
+Fakat ondan daha iyi bir şeyim vardı. Ve o çok basitti.,Ama daha iyi bir şeyim vardı ve çok basitti.,ted,3,3,3
+' Tanrı benim kılavuzumdur.'demiştir,"Dedi ki, ""Tanrı benim çobanımdır.""",ted,1,2,1
+Güvenlik ve korunmayla ilgili tasarımları konu alıyordu.,Güvenlik ve korumayla ilgilenen tasarımla ilgiliydi.,ted,2,3,2
+Burada biraz öne saracağım.,Burada ileri atlayacağım.,ted,3,3,3
+"Katrina kasırgasında görüldüğü gibi bir felakete hazırlıklı olmada, sorunları çözebilmede artık sadece devlet kurumlarına güvenemeyiz.","Katrina bize hükümete tamamen güvenemeyeceğimizi gösterdi. Elimizin altında hazır olmamıza, işleri idare edebilmemize.",ted,1,2,1
+"Şimdi şu mümkün olacak, ve eğer Craig Venter bugün burada olsaydı, bunun hakkında size birşeyler söyleyebilirdi - bu yılın sonunda 40 milyon dolara insan genomunu sıralamak mümkün olacak.",Bu yılın sonuna kadar insan genomunu 40 milyon dolara dizmek artık mümkün.,ted,-1,0,2
+Hayvanın sağ el tarafına gidişi ve oraya burnunu sokması ve bunu her yaptığında bir mavi ışık flaşı alması.,Bu hayvan sağ tarafa gidecek ve burnunu oraya sokacak ve bunu her yaptığında bir mavi ışık çakacak.,ted,2,2,3
+İnsanların heyecanını uyandıran biri için burası bir yatırım fırsatıydı.,"Bu, insanların hayal gücünü heyecanlandıran biri için bir yatırım fırsatıydı.",ted,2,3,2
+"Işıklar açık görünüyor, ama konu Y2K + 10 problemıne gelince evde kimse yok. Değil mi?","Işıklar açık gibi, ama bu demografik Y2K + 10 probleminde kimse yok, değil mi?",ted,1,1,1
+Birinci adam tereddüt eder.,Ve ikinci kaptan tereddüt ediyor.,ted,0,0,1
+peki inancı nasıl inşa edersin?,"Peki, inancı nasıl inşa ediyorsun?",ted,3,3,3
+"Sonra, bir sabah saat 6'da","Sonra bir sabah erken saatlerde, sabah 6'da.",ted,3,3,3
+"Ses : Bir kart destesindeki tüm noktaları toplarsanız, sonuç 365'tir.",Ses : Eğer kart destesindeki tüm noktaları toplarsanız sonuç 365.,ted,3,3,3
+"İlk test ürünümüzü Alessi ile ürettik ki, bir kahve ve çay setiydi.",İlk yaptığımız test ürünü Alessi ileydi. Bu da kahve ve çay seti içindi.,ted,2,2,3
+"Kötülük doğuran sistemlerin gücüne yurta ve dünyada karşı duralım, olumluya odaklanalım.",Yurtiçi ve yurtdışındaki kötü sistemlerin gücüne karşı çıkalım ve olumlu şeylere odaklanalım.,ted,2,3,2
+Önem arzedecek olan nokta mavi ile gösterilen çizgi.,"Önemli olan, mavi olan.",ted,-1,3,1
+"Bu konuda hiç bir şey yapılamayacağını, eski bir ayakkabı gibi yıpranacağımızı düşündüler.",Sadece yıprandığını düşündüler. Bu konuda yapabileceğin hiçbir şey yok. Eski bir ayakkabı gibi.,ted,1,1,1
+Ve biz IDEO'da bunları yapan insanlara hayranlık guyuyoruz.,Bunu IDEO'da yapan insanları takdir ediyoruz.,ted,2,3,2
+"Biz bunu çipe koyduk ; ne görüyoruz? İşte, parainfluenza-4.",Parainfluenza-4'ü gördük.,ted,0,0,1
+Bunun en güzel örnekerinden biri Darwin.,Darwin bunun harika bir örneği.,ted,3,3,3
+Politikayı takip eden herhangi birisi bunu anlamanın bazı insanlar için ne kadar zor olduğunu doğrulayabilir.,"Politikayı takip eden herkes, bazı insanların bunun ne kadar zor olduğuna tanıklık edebilir.",ted,1,1,2
+Daha önce bunu kimse görmedi. Bu tamamen geçen hafta sonuçlandırdığımız bir şey.,Bunu daha önce kimse görmedi.,ted,1,1,2
+"Hiçbir şey okuyamadım - sanki hiyeroglif çünkü Kanji idi, yani Japonca'ya adapte edilmiş Çince karakterler.","Hiçbirini okuyamadım çünkü Kanji'ydi, Çince karakterler Japon diline uyum sağladı.",ted,2,2,2
+TL : Gerçekten çok teşekkürler.,Gerçekten teşekkür ederiz.,ted,3,3,3
+Anladımki kanser insanların özel hayatına girmek için bir pasaport.,"Kanser, samimiyetin pasaportudur.",ted,1,2,1
+"Kırıntınız çıtır, ekmeğiniz kabarık olsun.","Kabuğun kıtır kıtır olsun, ekmeğin her zaman yükselsin.",ted,1,1,1
+"Peki, kendimizin ötesi derken neyi kastediyoruz?",Kendimizin ötesinde derken neyi kastediyoruz?,ted,2,3,2
+"Yeteri kadar alan vardı. Ve en önemlisi, kontrol edebiliyordum.","Yeterince yer vardı ve kontrol bendeydi, ki bu çok önemliydi.",ted,2,2,3
+Ama alışveriş de yapmayın.,"Ama aynı zamanda, alışveriş yapma.",ted,2,2,2
+"En yakını, Permiyen yok olmasının sağ taraftaki bu güzel yapı nedeniyle bir etkiye sahip olduğu düşünülüyordu.","En son, Permiyan, sağdaki bu güzel yapı nedeniyle bir etki olduğu düşünülmektedir.",ted,2,2,2
+"Bağımsız bir gazete, ama siz gelin de bunu yönetimdeki insanlara anlatın.","Bu bağımsız bir gazete, ama bunu yetkili insanlara söyle.",ted,2,2,2
+"Ve, elbette eğer petri kabında sıçan dişi inşa edebiliyorsanız insan dişini de petri kabında büyütebilirsiniz.","Ve tabii eğer Petri tabaklarında fare azı dişi yapabiliyorsanız, Petri tabaklarında insan azı dişi yetiştirebilirsiniz.",ted,-1,1,3
+Eğitim sistemini iyileştirmek istiyorum.,Eğitim sistemimizi düzeltmek istiyorum.,ted,2,3,2
+"bir baz çift için 1990da 10 dolardı, 2000de bir peni.","1990'da baz çifti başına 10 dolar, 2000'de ise bir peni.",ted,3,3,3
+Hangi suçun nerede işlendiğini görebilirsiniz ve polis gücünü sorgulama fırsatına sahipsiniz.,Hangi suçun işlendiğini görebiliyorsunuz ve polis gücünüzü hesaba katma fırsatınız var.,ted,1,1,1
+"Elini şu şekilde kaldırıp bana şunu dedi, "" Devam et. ""","Aniden elini böyle kaldırdı ve bana dedi ki, ""Devam et.""",ted,2,2,3
+"Ve ansızın, bu plastik torba, son derece güzeldi benim için.","Ve aniden, bu plastik torba benim için son derece güzeldi.",ted,3,3,3
