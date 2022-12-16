@@ -15,7 +15,12 @@ The raw (non-filtered versions) can be acessed from the links below:
 - [OpenSubtitles2018 Raw](https://huggingface.co/datasets/mrbesher/tr-paraphrase-opensubtitles2018) (OST-RAW)
 - [Tatoeba Raw](https://huggingface.co/datasets/mrbesher/tr-paraphrase-tatoeba-raw) (TAT-RAW)
 
-The folder `datasets` contains the file `human_annotations.csv`, which includes the human annotations for a sample of pairs from the OpenSubtitles2018, Tatoeba, and TED2013 datasets. The `src` column contains the source text for each pair, the `tgt` column contains the target text, and the `dataset` column indicates which dataset the pair is from. The `human` column indicates the overall label for the pair, based on the annotators' scores and agreement. If the annotators disagreed and the score difference was less than two, the label indicating less semantic similarity was chosen and recorded in the `human` column. If the label was discarded due to disagreement or any other reason, a value of -1 is recorded in the `human` column. The `annotator_1` and `annotator_2` columns contain the scores given by the two annotators for each pair.
+The folder `datasets` contains the file `human_annotations.csv`, which includes the human annotations for a sample of pairs from the datasets.
+- The `src` column contains the source text for each pair.
+- The `tgt` column contains the target text.
+- The `dataset` column indicates which dataset the pair is from.
+- The `human` column indicates the overall label for the pair, based on the annotators' scores and agreement. If the label was discarded due to disagreement, a value of -1 is recorded in the `human` column.
+- The `annotator_1` and `annotator_2` columns contain the scores given by the two annotators for each pair.
 
 ## Model Checkpoints
 You can access the finetuned model checkpoints from the links below:
