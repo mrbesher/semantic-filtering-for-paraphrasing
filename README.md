@@ -31,4 +31,4 @@ You can access the finetuned model checkpoints from the links below:
 - [trBART (TAT)](https://huggingface.co/hyunussarioglu/tr-paraphrase-bart-tat): [trBART](https://huggingface.co/hyunussarioglu/tr-paraphrase-bart-tat) finetuned on the filtered Tatoeba dataset.
 
 ## Codes
-__Will be added later.__
+All the codes are available under the [code](code) folder. Description will be added later.
