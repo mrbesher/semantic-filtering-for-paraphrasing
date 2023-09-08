@@ -1,5 +1,5 @@
 # Semantic Similarity Based Filtering for Turkish Paraphrase Dataset Creation
-A repository of the codes and the datasets used in the paper "Semantic Similarity Based Filtering for Turkish Paraphrase Dataset Creation" (citation to be added when published).
+A repository of the codes and the datasets used in the paper ["Semantic Similarity Based Filtering for Turkish Paraphrase Dataset Creation"](https://aclanthology.org/2022.icnlsp-1.14/).
 
 The work in this paper was done by [Besher Alkurdi](https://github.com/mrbesher), [Hasan Yunus Sarioglu](https://github.com/hyunussarioglu) and [Mehmet Fatih Amasyali](https://github.com/mfatihamasyali).
 
